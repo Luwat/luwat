@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luwat&show_icons=true&locale=en&layout=compact" alt="luwat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luwat&show_icons=true&locale=en" alt="luwat" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luwat&show_icons=true&locale=en" alt="luwat" /></p> -->
