@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 
-- 🌱 I’m currently learning **Next, ReactNative**
+- 🌱 I’m currently learning **Next, ReactNative, TypeScript**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
