@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
-- 👨‍💻 All of my projects are available at [www.GitHub.com/luwat](www.GitHub.com/luwat)
+- 👨‍💻 All of my projects are available on my [GitHub](www.github.com/luwat) profile.
 
 - 💬 Ask me about **my interests, stacks, Faith, values etc.**
 
